@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Chamorro Casero
+    given-names: Pablo
+title: "Objective Information from Biased News"
+version: "v1.0.0"
+date-released: "2025-04-26"
+url: "https://github.com/pablochamorro21/Objective-Information-From-Biased-News"
