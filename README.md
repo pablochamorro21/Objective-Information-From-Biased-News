@@ -58,6 +58,13 @@ Evaluates the bias-reduction performance on a held-out test set. It:
 - Computes original and rewritten bias scores.
 - Records results and computes overall average bias reduction.
 
+### 8. `app.py`
+Provides an interactive Streamlit MVP to showcase the bias-reduction pipeline. It:
+- Offers a simple UI for users to input a news article link.
+- Displays the original article side-by-side with its neutral rewrite.
+- Allows on-the-fly bias scoring and comparison.
+- Serves as a proof-of-concept demo of the full pipeline in action.
+
 ## Workflow Summary
 
 1. **Data Collection**:  
